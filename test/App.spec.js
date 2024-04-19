@@ -33,3 +33,4 @@ describe('ToDo App', () => {
         expect(cmp.find('.todo-list').isEmpty()).toBe(true)
     })
 })
+// expected error is took place if we cant give proper tags!
